@@ -40,4 +40,4 @@ If you encounter the warning:
 
 Simply ignore it—it does not affect the functionality of the app.
  
-Developed by **Dev Singh** 
+
